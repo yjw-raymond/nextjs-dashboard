@@ -21,3 +21,10 @@ npm run dev
 #								#
 #################################################################
 
+
+How to connect with vercel database
+
+cd nextjs-dashboard
+
+cp env.vercel .env
+
